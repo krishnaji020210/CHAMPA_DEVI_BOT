@@ -45,15 +45,15 @@ from pyrogram.errors import (
 
 BOT_TOKEN = os.getenv('BOT_TOKEN', '8269068561:AAGTOiR8h-RQ3ukT2iRIhDqIyUBp2CxYdcU')
 ADMIN_ID = int(os.getenv('ADMIN_ID', '8316947415'))
-MONGO_URL = os.getenv('MONGO_URL', 'mongodb+srv://ADIAZAZ67889:ADIAZAZ67889@cluster0.rr1kvuw.mongodb.net/?appName=Cluster0')
+MONGO_URL = os.getenv('MONGO_URL', 'mongodb+srv://krishnaji020220:<krishnaji020220>@kanhamusic.quxicda.mongodb.net/?appName=KANHAMUSIC')
 API_ID = int(os.getenv('API_ID', '36330071'))
 API_HASH = os.getenv('API_HASH', '7cf95f082395bcf3d2e7c4a4a27f3ef5')
 
 # MUST JOIN CHANNELS - TWO CHANNELS
-MUST_JOIN_CHANNEL_1 = "@ADI_OTP_SUPPORT"
-MUST_JOIN_CHANNEL_2 = "@ADI_SUPPORT_GROUP"
+MUST_JOIN_CHANNEL_1 = "@DESTRUCTGRAVEYARD"
+MUST_JOIN_CHANNEL_2 = "@ABOUTXKANHAA"
 # LOG CHANNEL
-LOG_CHANNEL_ID = "-1003557056482"
+LOG_CHANNEL_ID = "-1003803636700"
 
 # Referral commission percentage
 REFERRAL_COMMISSION = 1.5
