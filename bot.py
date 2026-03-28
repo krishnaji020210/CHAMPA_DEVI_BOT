@@ -46,8 +46,8 @@ from pyrogram.errors import (
 BOT_TOKEN = os.getenv('BOT_TOKEN', '8269068561:AAGTOiR8h-RQ3ukT2iRIhDqIyUBp2CxYdcU')
 ADMIN_ID = int(os.getenv('ADMIN_ID', '8316947415'))
 MONGO_URL = os.getenv('MONGO_URL', 'mongodb+srv://krishnaji020220:<krishnaji020220>@kanhamusic.quxicda.mongodb.net/?appName=KANHAMUSIC')
-API_ID = int(os.getenv('API_ID', '36330071'))
-API_HASH = os.getenv('API_HASH', '7cf95f082395bcf3d2e7c4a4a27f3ef5')
+API_ID = int(os.getenv('API_ID', '37334612'))
+API_HASH = os.getenv('API_HASH', '3635cf26b69c326e1aca8af4635266d6')
 
 # MUST JOIN CHANNELS - TWO CHANNELS
 MUST_JOIN_CHANNEL_1 = "@DESTRUCTGRAVEYARD"
